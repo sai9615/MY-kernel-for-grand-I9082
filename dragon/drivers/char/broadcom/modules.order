@@ -1,0 +1,2 @@
+kernel/drivers/char/broadcom/gist.ko
+kernel/drivers/char/broadcom/sigmorph.ko

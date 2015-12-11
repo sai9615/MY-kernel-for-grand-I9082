@@ -1,0 +1,5 @@
+kernel/drivers/hwmon/hwmon.ko
+kernel/drivers/hwmon/kona-tmon.ko
+kernel/drivers/hwmon/kona-thermal.ko
+kernel/drivers/hwmon/bcmpmu-thermal.ko
+kernel/drivers/hwmon/bcmpmu-hwmon.ko

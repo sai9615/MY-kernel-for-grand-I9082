@@ -1,0 +1,4 @@
+kernel/drivers/crypto/brcm_spum.ko
+kernel/drivers/crypto/spum_hash.ko
+kernel/drivers/crypto/brcm_spum.ko
+kernel/drivers/crypto/spum_aes.ko

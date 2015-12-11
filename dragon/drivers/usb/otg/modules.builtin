@@ -1,0 +1,2 @@
+kernel/drivers/usb/otg/bcmpmu_otg_xceiv.ko
+kernel/drivers/usb/otg/bcm_otg_adp.ko

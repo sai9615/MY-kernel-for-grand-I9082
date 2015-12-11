@@ -1,0 +1,9 @@
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/gadget/g_android.ko
+kernel/drivers/usb/gadget/dwc_otg/driver/dwc_otg.ko
+kernel/drivers/usb/gadget/dwc_otg/dwc_common_port/dwc_common_port_lib.ko
+kernel/drivers/usb/mon/usbmon.ko
+kernel/drivers/usb/otg/bcmpmu_otg_xceiv.ko
+kernel/drivers/usb/otg/bcm_otg_adp.ko
+kernel/drivers/usb/storage/usb-storage.ko
+kernel/drivers/usb/storage/usb-libusual.ko

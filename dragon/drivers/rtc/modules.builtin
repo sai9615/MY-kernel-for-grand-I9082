@@ -1,0 +1,2 @@
+kernel/drivers/rtc/rtc-bcmpmu.ko
+kernel/drivers/rtc/rtc-island.ko

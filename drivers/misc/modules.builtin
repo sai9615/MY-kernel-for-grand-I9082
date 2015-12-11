@@ -1,0 +1,5 @@
+kernel/drivers/misc/gp2ap030.ko
+kernel/drivers/misc/bcmpmu_audio.ko
+kernel/drivers/misc/fsa9485.ko
+kernel/drivers/misc/vc04_services/vc-vchiq.ko
+kernel/drivers/misc/vc04_services/vc-vchiq-memdrv-kona.ko

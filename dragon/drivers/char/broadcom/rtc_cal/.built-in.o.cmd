@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/rtc_cal/built-in.o :=  /home/milind/toolchain/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o drivers/char/broadcom/rtc_cal/built-in.o drivers/char/broadcom/rtc_cal/rtc_sc.o drivers/char/broadcom/rtc_cal/bcm_rtc_cal.o 

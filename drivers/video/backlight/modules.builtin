@@ -1,0 +1,4 @@
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/video/backlight/backlight.ko
+kernel/drivers/video/backlight/ktd_bl.ko
+kernel/drivers/video/backlight/bcm_touchkey_led.ko

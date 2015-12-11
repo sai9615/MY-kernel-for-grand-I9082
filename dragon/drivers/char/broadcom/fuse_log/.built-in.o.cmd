@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/fuse_log/built-in.o :=  /home/milind/toolchain/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o drivers/char/broadcom/fuse_log/built-in.o drivers/char/broadcom/fuse_log/bcmlog.o drivers/char/broadcom/fuse_log/bcmmtt.o drivers/char/broadcom/fuse_log/fifo.o drivers/char/broadcom/fuse_log/output.o drivers/char/broadcom/fuse_log/config.o 

@@ -1,0 +1,2 @@
+kernel/drivers/misc/vc04_services/vc-vchiq.ko
+kernel/drivers/misc/vc04_services/vc-vchiq-memdrv-kona.ko

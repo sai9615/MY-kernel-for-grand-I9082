@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/sysman_remote/vc-sysman-remote.o := /home/milind/toolchain/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o drivers/char/broadcom/sysman_remote/vc-sysman-remote.o drivers/char/broadcom/sysman_remote/sysman_remote.o 

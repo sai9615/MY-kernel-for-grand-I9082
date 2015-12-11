@@ -1,0 +1,2 @@
+kernel/drivers/char/broadcom/rtc_cal/rtc_sc.ko
+kernel/drivers/char/broadcom/rtc_cal/bcm_rtc_cal.ko

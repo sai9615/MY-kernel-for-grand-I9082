@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-capri/chal/built-in.o :=  /home/milind/toolchain/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o arch/arm/mach-capri/chal/built-in.o arch/arm/mach-capri/chal/chal_dmux.o arch/arm/mach-capri/chal/chal_dma.o arch/arm/mach-capri/chal/chal_ipc.o arch/arm/mach-capri/chal/chal_icd.o arch/arm/mach-capri/chal/chal_rtc.o 
